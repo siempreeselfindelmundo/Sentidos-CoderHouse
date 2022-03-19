@@ -1,0 +1,12 @@
+.carrusel {
+    height: 400px !important;
+}
+
+.card {
+    height: 400px;
+    width: 400px;
+}
+
+.rounded-circle{
+    background-color: #E8A39B;
+}
